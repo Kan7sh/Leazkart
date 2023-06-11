@@ -260,7 +260,7 @@ class _MyAppState extends State<MyApp> {
                                       Row(
                                         children: [
                                           Padding(
-                                            padding: const EdgeInsets.only(left: 7,top: 9,bottom: 9,right: 14),
+                                            padding: const EdgeInsets.only(left: 7,top: 11,bottom: 11,right: 14),
                                             child: Icon(icons[index],size: 20,),
                                           ),
                                           Text(settingsTitle[index],style: const TextStyle(fontFamily: 'FontMainLight',fontSize: 15),)
