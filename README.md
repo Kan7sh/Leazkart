@@ -1,16 +1,8 @@
-# leazkart_kanish
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Lenzkart
+ <br>
+  <img src="https://github.com/Kan7sh/Leazkart/assets/108531912/b3b0bbc1-ff2e-4988-899c-9548f73ee8f6" width="450" height="1000">
+ <img src="https://github.com/Kan7sh/Leazkart/assets/108531912/fe8a5fe4-3a14-40a7-856f-006e57b11f78" width="450" height="1000">
+ <br>
+ <br>
+ <br>
+ APK Link: https://drive.google.com/file/d/1dadZdd3jvehMKfJWBrXCooES3NtxeX7s/view
